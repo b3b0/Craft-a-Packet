@@ -1,5 +1,3 @@
-import time
-import sys
 import os
 from scapy.all import *
 
